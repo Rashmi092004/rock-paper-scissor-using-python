@@ -1,0 +1,1 @@
+In this project, I developed a Rock Paper Scissors game where the AI opponent makes decisions based on the user's input. The game uses a simple decision-making algorithm, where the AI randomly selects between rock, paper, or scissors and determines the winner based on the traditional game rules.
